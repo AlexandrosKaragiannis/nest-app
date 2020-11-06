@@ -1,4 +1,4 @@
-# test-app
+# nest-app
 
 ## Description
 Test OpenAPI spec on NestJS backend
