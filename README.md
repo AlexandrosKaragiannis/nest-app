@@ -1,7 +1,7 @@
 # nest-app
 
 ## Description
-Test OpenAPI spec on NestJS backend
+Basic OpenAPI NestJS backend
 
 ## Installation
 Clone this repo and run
@@ -22,5 +22,5 @@ $ npm run start:dev
 npm run start:prod
 ```
 
-For now, the api routes can be viewed at
+The Swagger UI can be viewed at
 `http://localhost:3000/api/`

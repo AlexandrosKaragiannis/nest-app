@@ -11,7 +11,12 @@ export class AppController {
   }
 
   @Get()
-  greetAlex() {
-    return this.appService.sayHello('Alex');
+  greetKnowledge() {
+    return this.appService.sayHello('Knowledge');
+  }
+
+  @Get()
+  sayGoodbyeToKnowledge() {
+    return this.appService.sayGoodbye('Knowledge');
   }
 }
